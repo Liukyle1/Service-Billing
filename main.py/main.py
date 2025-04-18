@@ -67,7 +67,7 @@ def update_client():
     conn.close()
     messagebox.showinfo("Success", "Customer Updated Successfully")
 
-# GUI Layout
+
 
 
 
@@ -100,8 +100,12 @@ Label(form_frame, text="Phone Number").grid(row=3, column=0, padx=10, pady=5, st
 PhoneNumber_entry = Entry(form_frame)
 PhoneNumber_entry.grid(row=3, column=1, padx=10, pady=5)
 
-Button(form_frame, text="Add Client", command=create_client).grid(row=4, column=0, columnspan=2, pady=10)
+Label(form_frame, text="Service ID").grid(row=4, column=0, padx=10, pady=5, sticky="e")
+ServiceID_entry = Entry(form_frame)
+ServiceID_entry.grid(row=4, column=1, padx=10, pady=5)
 
+
+Button(form_frame, text="Add Client", command=create_client).grid(row=6, column=0, columnspan=2, pady=50)
 Button(root, text="View All Clients", command=read_client).pack(pady=2)
 Button(root, text="Delete Clients", command=delete_client).pack(pady=2)
 Button(root, text="Update Clients", command=update_client).pack(pady=2)
