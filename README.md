@@ -42,12 +42,12 @@ Before you begin, ensure you have the following installed:
 
 Clone the repository:  
 ```sh
-   git clone https://github.com/yourusername/service-billing.git
+git clone https://github.com/yourusername/service-billing.git
 ```
 
 Navigate to the project directory:  
 ```sh
-   cd service-billing
+cd service-billing
 ```
 
 Install dependencies (Tkinter usually comes preinstalled):  
@@ -91,15 +91,15 @@ We welcome contributions! Here's how you can contribute:
 
 ---
 
-📝 Sample Data
+## 📝 Contributing
 
 - You can find some pre-filled data in setup_service_billing.sql to test:
 - Sample services: Web Design, SEO Optimization, Cloud Hosting
-- Sample clients already linked to services'
+- Sample clients already linked to services
 
 ---
 
-📌 Notes
+## 📌 Notes
 
 - Make sure service_billing.db and main.py are in the same directory
 - The GUI will open in a new window — use it to add/view/manage client-service data
