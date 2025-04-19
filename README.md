@@ -107,7 +107,7 @@ We welcome contributions! Here's how you can contribute:
 
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 - Created by [Kyle Liu]
 - Feel free to contribute or fork the project!
   Let me know if you want a version that includes screenshots, badges, or links to Git
