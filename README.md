@@ -15,9 +15,6 @@
 
 ---
 
-
----
-
 ## ✨ Features  
 
 Add new clients with personal details
@@ -65,20 +62,6 @@ python3 main.py
 
 ---
 
-
-## 🏗 Technical Architecture  
-
-### Core Technologies  
-
-- **React Native** – Cross-platform mobile development  
-- **TypeScript (if used)** – Strongly typed JavaScript for reliability  
-- **Python (Flask/FastAPI)** – Backend API services  
-- **TensorFlow/Keras** – AI-based meal recognition  
-- **PostgreSQL / Firebase** – Database for user data  
-- **AWS S3 / Google Cloud Storage** – Storing meal images  
-
----
-
 ## 🤝 Contributing  
 
 We welcome contributions! Here's how you can contribute:  
@@ -114,7 +97,7 @@ We welcome contributions! Here's how you can contribute:
 - Sample services: Web Design, SEO Optimization, Cloud Hosting
 - Sample clients already linked to services'
 
-
+---
 
 📌 Notes
 
@@ -122,8 +105,9 @@ We welcome contributions! Here's how you can contribute:
 - The GUI will open in a new window — use it to add/view/manage client-service data
 - All data is stored locally using SQLite
 
+---
 
 🧑‍💻 Author
 - Created by [Kyle Liu]
 - Feel free to contribute or fork the project!
-- Let me know if you want a version that includes screenshots, badges, or links to Git
+  Let me know if you want a version that includes screenshots, badges, or links to Git
