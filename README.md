@@ -14,17 +14,6 @@
 - Update or delete client records
 - Add, update, and delete services
 - Simple, clean graphical user interface (GUI)
-
----
-
-## ✨ Features  
-
-Add new clients with personal details
-- Assign services to clients (with service name and rate)
-- View all clients along with the services they are using
-- Update or delete client records
-- Add, update, and delete services
-- Simple, clean graphical user interface (GUI)
   
 ---
 
