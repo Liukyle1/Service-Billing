@@ -82,7 +82,7 @@ We welcome contributions! Here's how you can contribute:
 
 ---
 
-## 📝 Contributing
+## 📝 Samples
 
 - You can find some pre-filled data in setup_service_billing.sql to test:
 - Sample services: Web Design, SEO Optimization, Cloud Hosting
